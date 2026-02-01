@@ -21,8 +21,8 @@ The frontend loads HLS URLs and plays the videos in the browser.
 
 The backend and frontend are connected as follows:
 
-- **The backend returns a video URL (HLS playlist `.m3u8`) after conversion.
-- **The frontend uses that URL in the video player to stream the video.
+- The backend returns a video URL (HLS playlist `.m3u8`) after conversion.
+- The frontend uses that URL in the video player to stream the video.
 
 ## Tech Stack
 
